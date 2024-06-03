@@ -8,7 +8,7 @@ Bill Gates
 This is a tribute page about CEO of Microsoft. it contains on itself an html file and css file.
 
 ## Demo 📸
-https://iamfarhatsharefi.github.io/Tribute-page-/
+[live Demo}(https://iamfarhatsharefi.github.io/Tribute-page-/()
 ![Screenshot](./WhatsApp%20Image%202024-06-02%20at%2010.11.10_90677b28.jpg)
 
 
